@@ -1,6 +1,6 @@
 - 👋 Olá, Meu nome é Maria Alice
 - 👀 Estou interessada em vaga de estágiario  
-- 🌱 Atualmente estou aprendendo JavaScript
+- 🌱 Atualmente estou aprendendo JavaScript 
 - 📫 Contato: mariaalice15.rj@gmail.com
 
 <!---
