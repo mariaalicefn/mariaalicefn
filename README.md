@@ -1,6 +1,6 @@
 <div>
   <h2 >👩🏽‍💻 Maria Alice</h2>
-  <p ><strong>Analista de QA Júnior</strong> | Estudante de Análise e Desenvolvimento de Sistemas (5º período)</p>
+  <p ><strong>Analista de QA Júnior</strong> | Formada em Análise e Desenvolvimento de Sistemas </p>
   <p>🔍 Apaixonada por tecnologia, com foco em qualidade de software e automação de testes. Busco constantemente novos aprendizados e desafios na área de TI.</p>
   <p>💼 Experiência em testes funcionais, exploratórios, unitários e de caixa preta, além de documentação de testes com BDD/Gherkin. Trabalho colaborativo em times ágeis garantindo a qualidade e evolução contínua dos sistemas.</p>
 </div>
